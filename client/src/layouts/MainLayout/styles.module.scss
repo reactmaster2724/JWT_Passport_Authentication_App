@@ -1,0 +1,22 @@
+$max-width-window: 80%;
+
+.page_wrapper {
+  background: url('./images/tea_bg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
+  z-index: 1;
+}
+
+.page_width {
+  width: $max-width-window;
+}
+
+.layout {
+  margin: 200px auto;
+}
