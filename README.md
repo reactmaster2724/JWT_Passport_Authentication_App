@@ -1,4 +1,4 @@
-# JWT_Passport_Auth_App
+# JWT_Passport_Authentication_App
 
 Getting Started
 project For correct behavior of the project, especially for async / await, set global node Js to version 8 or higher. You can follow the link https://nodejs.org/en/ to download the node.
